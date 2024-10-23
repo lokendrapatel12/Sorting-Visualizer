@@ -1,4 +1,4 @@
-Sorting - Visualizer
+     Sorting - Visualizer
 
  Overview
 
@@ -16,3 +16,9 @@ Features
 * Speed Control: Adjustable sorting speed allows users to slow down or speed up the visualization for better understanding.
  
 * Educational Insight: Displays the number of comparisons, swaps, and steps taken, providing insight into the algorithm's efficiency.
+
+
+
+Technologies Used
+ 
+    Frontend: HTML, CSS, JavaScript
